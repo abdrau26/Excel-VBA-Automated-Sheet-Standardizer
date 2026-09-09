@@ -1,7 +1,4 @@
 
-A VBA automation tool designed to insert standardized column headers and apply uniform formatting across multiple worksheets within a Microsoft Excel workbook.
-
----
 ## Project Overview
 When processing raw data exports across multiple sheets, manual header creation and styling are repetitive and prone to inconsistency. This project automates data preparation by combining macro-recorded formatting procedures with a programmatic VBA loop. 
 
