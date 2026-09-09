@@ -64,7 +64,7 @@ End Sub
 - Macros enabled in Excel Security Settings
 ## Execution Steps
 1. Open `CleaningUpData.xlsm`
-2. - Press `ALT + F11` to launch the Visual Basic for Applications editor.
+2. Press `ALT + F11` to launch the Visual Basic for Applications editor.
 3. Verify that `AddHeader`, `FormatHeaders`, and `CleanUpData` are present inside the standard module.
 4. Press `ALT + F8`, select `CleanUpData`, and click **Run**
 ## Author
