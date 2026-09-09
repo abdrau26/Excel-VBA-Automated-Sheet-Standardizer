@@ -1,4 +1,3 @@
-# Excel VBA Automated Sheet Standardizer
 
 A VBA automation tool designed to insert standardized column headers and apply uniform formatting across multiple worksheets within a Microsoft Excel workbook.
 
